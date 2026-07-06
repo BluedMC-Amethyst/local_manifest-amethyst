@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="achu137" fetch="https://github.com/bluekyeet/" />
+  <remote name="bluekyeet" fetch="https://github.com/bluekyeet/" />
 
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
