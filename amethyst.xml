@@ -2,22 +2,22 @@
 <manifest>
   <remote name="bluekyeet" fetch="https://github.com/bluekyeet/" />
 
-  <project name="device_xiaomi_amethyst"
+  <project name="android_device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="bluekyeet"
            revision="lineage-23.2" />
 
-  <project name="device_xiaomi_amethyst-kernel"
+  <project name="android_device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
            remote="bluekyeet"
            revision="lineage-23.2" />
 
-  <project name="vendor_xiaomi_amethyst"
+  <project name="proprietary_vendor_xiaomi_amethyst"
            path="vendor/xiaomi/amethyst"
            remote="bluekyeet"
            revision="lineage-23.2" />
 
-  <project name="hardware_xiaomi"
+  <project name="android_hardware_xiaomi"
            path="hardware/xiaomi"
            remote="bluekyeet"
            revision="lineage-23.2" />
