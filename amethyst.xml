@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="achu137" fetch="https://github.com/bluekyeet/" />
+
+  <project name="device_xiaomi_amethyst"
+           path="device/xiaomi/amethyst"
+           remote="bluekyeet"
+           revision="lineage-23.2" />
+
+  <project name="device_xiaomi_amethyst-kernel"
+           path="device/xiaomi/amethyst-kernel"
+           remote="bluekyeet"
+           revision="lineage-23.2" />
+
+  <project name="vendor_xiaomi_amethyst"
+           path="vendor/xiaomi/amethyst"
+           remote="bluekyeet"
+           revision="lineage-23.2" />
+
+  <project name="hardware_xiaomi"
+           path="hardware/xiaomi"
+           remote="bluekyeet"
+           revision="lineage-23.2" />
+
+  <project name="device_qcom_sepolicy_vndr"
+           path="device/qcom/sepolicy_vndr-sm8650"
+           remote="bluekyeet"
+           revision="lineage-23.2-caf-sm8650" />
+</manifest>
