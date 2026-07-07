@@ -36,4 +36,8 @@
            path="vendor/xiaomi/amethyst-miuicamera"
            remote="bluekyeet"
            revision="lineage-23.2" />
+  <project name="packages_apps_ViPER4AndroidFX"
+           path="packages/apps/ViPER4AndroidFX"
+           remote="bluekyeet"
+           revision="cnb" />
 </manifest>
