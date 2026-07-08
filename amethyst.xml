@@ -23,7 +23,7 @@
            revision="lineage-23.2" />
 
   <project name="android_device_qcom_sepolicy_vndr"
-           path="device/qcom/sepolicy_vndr-sm8650"
+           path="device/qcom/sepolicy_vndr/sm8650"
            remote="bluekyeet"
            revision="lineage-23.2-caf-sm8650" />
 
