@@ -36,8 +36,16 @@
            path="vendor/xiaomi/amethyst-miuicamera"
            remote="bluekyeet"
            revision="lineage-23.2" />
+
   <project name="packages_apps_ViPER4AndroidFX"
            path="packages/apps/ViPER4AndroidFX"
            remote="bluekyeet"
            revision="lineage-23.2" />
+           
+  <project name="android_hardware_dolby"
+           path="hardware/dolby"
+           remote="bluekyeet"
+           revision="lineage-23.2" />
+
 </manifest>
+
