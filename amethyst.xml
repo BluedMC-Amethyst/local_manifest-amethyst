@@ -5,37 +5,37 @@
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <project name="device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <project name="vendor_xiaomi_amethyst"
            path="vendor/xiaomi/amethyst"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <project name="hardware_xiaomi"
            path="hardware/xiaomi"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
   <project name="device_qcom_sepolicy_vndr"
            path="device/qcom/sepolicy_vndr/sm8650"
            remote="bluedmc"
-           revision="lineage-23.2-caf-sm8650" />
+           revision="lineage-24.0-caf-sm8650" />
 
   <project name="packages_apps_ViPER4AndroidFX"
            path="packages/apps/ViPER4AndroidFX"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
            
   <project name="packages_apps_LunarisDolby"
            path="packages/apps/LunarisDolby"
            remote="bluedmc"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 
 </manifest>
 
