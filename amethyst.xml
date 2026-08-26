@@ -41,11 +41,6 @@
            path="packages/apps/ViPER4AndroidFX"
            remote="bluedmc"
            revision="lineage-24.0" />
-           
-  <project name="packages_apps_LunarisDolby"
-           path="packages/apps/LunarisDolby"
-           remote="bluedmc"
-           revision="lineage-24.0" />
-
+ 
 </manifest>
 
