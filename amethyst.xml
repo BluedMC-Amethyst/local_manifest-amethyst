@@ -25,7 +25,7 @@
   <project name="device_qcom_sepolicy_vndr"
            path="device/qcom/sepolicy_vndr/sm8650"
            remote="bluedmc"
-           revision="sixteen-caf-sm8650" />
+           revision="sixteen-sm8650" />
 
   <project name="packages_apps_ViPER4AndroidFX"
            path="packages/apps/ViPER4AndroidFX"
