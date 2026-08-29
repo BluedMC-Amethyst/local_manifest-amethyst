@@ -25,7 +25,7 @@
   <project name="device_qcom_sepolicy_vndr"
            path="device/qcom/sepolicy_vndr/sm8650"
            remote="bluedmc"
-           revision="seventeen-caf-sm8650" />
+           revision="seventeen-sm8650" />
 
   <project name="device_xiaomi_amethyst-miuicamera"
            path="device/xiaomi/amethyst-miuicamera"
